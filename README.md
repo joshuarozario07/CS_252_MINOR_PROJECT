@@ -64,7 +64,7 @@ The main() function continually loops as long as should run equals 1; when the u
 ## How to Execute
 
 1. A Linux, UNIX or Mac OS X system is required for execution. 
-2. Hist.c has to be run. 
+2. Unix_Shell_Hist_Ft.c has to be run. 
 
 ## Credits
 
