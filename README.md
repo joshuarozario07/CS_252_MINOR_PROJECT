@@ -1,15 +1,26 @@
-# Sudoku_Solution_Validator
+# CS252_Project
 
+# About the Project
 
-This is a project from the textbook Operating Systems Concepts (9th edition) by ABRAHAM SILBERSCHATZ PETER BAER GALVIN GREG GAGNE
+These are projects from the textbook Operating Systems Concepts (9th edition) by ABRAHAM SILBERSCHATZ PETER BAER GALVIN GREG GAGNE
 
-This project was assigned as part of a final project for my Operating Systems course (CS 252) taught at National Institute of Technology Karnataka, Odd semester of 2022.
+Thess projects were assigned as part of the final project for our Operating Systems course (CS 252) taught at National Institute of Technology Karnataka, Odd semester of 2022.
 
 Done by
 
 Sreedev Sreekumar https://github.com/SreeDev-4522
 
 Joshua Rozario Raymond https://github.com/joshuarozario07
+
+This repository has implementation of two different projects:
+
+1) Sudoku Validator 
+
+2) UNIX Shell & History Feature
+
+Each have been assigned a specific folder with all the required files within their respective folder
+
+# PROJECT 1 : Sudoku_Solution_Validator
 
 The specifications for the project are as follows:
 
