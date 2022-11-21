@@ -41,5 +41,18 @@ The program then waits for all threads to complete their execution and checks if
  
 If yes, the solution is valid. If not, solution is invalid.
 
- This program also displays the total time taken for validation.
+This program also displays the total time taken for validation.
+
+## How to Execute
+
+A Linus, UNIX or MAC OS X system is required for execution.
+
+Sudoku_validator.cpp needs to be run.
+
+## Credits
+
+This project folder was taken from the github repo "https://gist.github.com/sowmyagowri/f4bde25b3ebba1e6e9930afbdf31a25b". 
+
+All credits to  Sowmya Gowrishankar (sowmyagowri)
+
  
