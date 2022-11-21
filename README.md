@@ -68,12 +68,12 @@ The main() function continually loops as long as should run equals 1; when the u
 
 ## Credits
 
-###Sudoku_Solution_Validator
+### Sudoku_Solution_Validator
 
 This project folder was taken from the github repo "https://gist.github.com/sowmyagowri/f4bde25b3ebba1e6e9930afbdf31a25b". 
 
 All credits to  Sowmya Gowrishankar (sowmyagowri)
 
-###Unix Shell and History Feature
+### Unix Shell and History Feature
 
 Used StackOverflow, GFG and guides to design and implement the Unix Shell and its functioning. 
