@@ -4,7 +4,7 @@
 
 These are projects from the textbook Operating Systems Concepts (9th edition) by ABRAHAM SILBERSCHATZ PETER BAER GALVIN GREG GAGNE
 
-Thess projects were assigned as part of the final project for our Operating Systems course (CS 252) taught at National Institute of Technology Karnataka, Odd semester of 2022.
+These projects were assigned as part of the final project for our Operating Systems course (CS 252) taught at National Institute of Technology Karnataka, Odd semester of 2022.
 
 Done by
 
