@@ -1,4 +1,4 @@
-PROJECT 1 : Sudoku_Solution_Validator
+# PROJECT 1 : Sudoku_Solution_Validator
 
 The specifications for the project are as follows:
 
